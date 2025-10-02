@@ -49,7 +49,7 @@ AI-Medical-Chatbot/
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JayeshGadhari/AI-Medical-Chatbot.git
 cd AI-Medical-Chatbot
 ```
 
@@ -57,7 +57,7 @@ cd AI-Medical-Chatbot
 
 ```bash
 conda create -n medibot python=3.10 -y
-conda activate medibot
+source D:/Anaconda/Scripts/activate medibot
 ```
 
 3. **Install dependencies:**
